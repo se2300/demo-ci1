@@ -1,2 +1,3 @@
 # demo-ci1
-demo ci python
+
+Demotaan ci/cd putkea yksinkertaisella python -sovellusrakenteella
